@@ -65,7 +65,9 @@
 ## **Install 🔨**
 
 1. Clone Project
-
+- Client: 
+- Server: 
+- Socket: 
 ```sh
   git clone https://github.com/igdev116/instagram-noob.git
 ```
