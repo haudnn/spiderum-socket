@@ -1,24 +1,25 @@
-<h1 align='center'><strong>Spe ⚡</strong></h1>
+<h1 align='center'><strong>Spiderum Clone ⚡</strong></h1>
 
-<p>A social network app cloned from Instagram built with Next.Js, Socket.IO and a lots of other new stuff.</p>
+<p>Social network Blog is cloned from Spiderum</p>
 
 
 ## **Main technologies 📝**
 
 - Front-End
   - ReactJs
-  - Next.Js
-  - Redux Toolkit
-  - TypeScript
-  - Apollo Client
-  - GraphQL
-  - Tailwind CSS
+  - Redux Saga
   - SCSS
+  - Firebase
+  - Socket.io
+  - Axios
+  - EditorJS
+  - Cloudiary
 - Back-End
   - Node.js
   - MongoDB
   - Socket.IO
-  - TypeGraphQL
+  - Bcryptjs
+  - Multer
   - JSON Web Token (JWT)
   - Nodemailer
   - Cloudinary
@@ -26,25 +27,27 @@
 ## **Features 🚀**
 
 - Authentication
-  - Sign in with Google, Facebook, Credential
+  - Sign in with Gmail(send OTP code), Facebook
   - Register new account
-  - Forgot password by email
-  - Receive mail reset password
   - Validate user session with JWT
 - Chatting
   - Create conversation(s)
   - Realtime chat 1-1
-  - Show online users
-  - Show if user has seen message
+- Notifications
+  - Notification when there is a new message
+  - Notify when someone follows you
+  - Notify when the person you are following posts
 - CRUD post
 - Comment on post
 - Send reaction to posts, comments
-- Search user
+- Search user and post
 - Follow and unfollow user
-- View profile
+- View profile and change profile
 - Toast message
-- Drag and drop photo
-- Infinite scroll
+- Sort posts by views or votes
+- Saved post to wishlists
+- Shared post to Facebook
+- Follow favorite topics and view posts by topic
 - Skeleton loading
 
 ## **Previews 📁**
