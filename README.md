@@ -52,26 +52,31 @@
 
 ## **Previews 📁**
 
-![image](https://user-images.githubusercontent.com/70432453/169486622-116a2c27-bd0e-4a74-96c5-407e12b4131d.png)
+![image](https://user-images.githubusercontent.com/90059594/169771234-a1ae6473-eb00-4450-af40-a4336d662f98.png)
 
-![image](https://user-images.githubusercontent.com/70432453/169486800-e1968142-985a-4e15-9930-8463964177a8.png)
+![image](https://user-images.githubusercontent.com/90059594/169771244-aa1c6a6a-67fb-4e58-bf68-c9873764e1d8.png)
 
-![image](https://user-images.githubusercontent.com/70432453/169487737-342fdabd-c84b-41bd-b468-4ca35dd1abde.png)
+![image](https://user-images.githubusercontent.com/90059594/169771247-96046eca-9049-44ac-ad80-df8a556787f7.png)
 
-![image](https://user-images.githubusercontent.com/70432453/169488501-ddbcf422-8a3e-48fe-856c-edde73b02a11.png)
+![image](https://user-images.githubusercontent.com/90059594/169771252-abcd7959-1421-407d-857e-d6f5234bfc1d.png)
 
-![image](https://user-images.githubusercontent.com/70432453/169489742-3f4b5df6-9760-49d5-bea3-6114cc7fda7a.png)
+![image](https://user-images.githubusercontent.com/90059594/169771255-e131e051-5bae-4184-82b6-9812a30f17ab.png)
 
 ## **Install 🔨**
 
 1. Clone Project
 - Client: 
+  ```sh
+  git clone https://github.com/haudnn/spiderum-client
+  ```
 - Server: 
+  ```sh
+    git clone https://github.com/haudnn/spiderum-server
+  ```
 - Socket: 
-```sh
-  git clone https://github.com/igdev116/instagram-noob.git
-```
-
+  ```sh
+  git clone https://github.com/haudnn/spiderum-socket
+  ```
 2. Install Packages
 
 ```sh
